@@ -22,8 +22,8 @@
 
 ## 📂 GitHub Stats & Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogesh-r&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogesh-r&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOGESH-OYS&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOGESH-OYS&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -76,12 +76,12 @@ Vivekananda Vidyalaya, Tirupur | SSLC: 74.20%, HSC: 79.33%
 ---
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yogesh-r&theme=flat&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOGESH-OYS&theme=flat&column=7" />
 </div>
 
 ---
 
 <!-- Fun animated badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yogesh-r&label=PROFILE+VIEWS&color=blueviolet&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=YOGESH-OYS&label=PROFILE+VIEWS&color=blueviolet&style=flat" />
 </p>
