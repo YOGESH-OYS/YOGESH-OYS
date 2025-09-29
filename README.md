@@ -1,5 +1,5 @@
 <!-- Banner -->
-![header](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I’m+YOGESH+R;Web+Developer+%7C+n8n+Architect;AI+%26+DS+Student;Welcome+to+My+Profile!&center=true&width=700)
+![header](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I’m+YOGESH+R;Web+Developer+%7C+n8n+Architect;Welcome+to+My+Profile!&center=true&width=700)
 
 ---
 
