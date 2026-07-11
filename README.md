@@ -69,7 +69,6 @@ Vivekananda Vidyalaya, Tirupur | SSLC: 74.20%, HSC: 79.33%
 
 ## 📫 Contact & Links
 
-- 📞 6380830363
 - ✉️ yogesh.profession.mail@gmail.com
 - 🌐 [LinkedIn](https://linkedin.com/in/yogesh-r-2a7a25279)
 
